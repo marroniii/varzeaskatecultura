@@ -1,7 +1,7 @@
 // Translations
 const translations = {
     'pt': {
-        'title': 'Skate Media Marketplace | Compre e venda mídias de skate',
+        'title': 'Varzea Skate Cultura | Compre e venda mídias de skate',
         'description': 'Encontre fotos e vídeos da sua sessão ou venda seu trampo como filmer ou fotógrafo de skate.',
         'hero_h1': 'Compre e venda mídias de skate da sua sessão',
         'hero_p': 'Fotos e vídeos reais, feitos na rua — encontre suas manobras ou venda seu trampo.',
@@ -47,7 +47,7 @@ const translations = {
         'footer_privacy': 'Política de privacidade'
     },
     'en': {
-        'title': 'Skate Media Marketplace | Buy and sell skate media',
+        'title': 'Varzea Skate Cultura | Buy and sell skate media',
         'description': 'Find photos and videos of your session or sell your work as a skate filmer or photographer.',
         'hero_h1': 'Buy and sell skate media from your sessions',
         'hero_p': 'Real photos and videos, shot on the streets — find your tricks or sell your work.',
