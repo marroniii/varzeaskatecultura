@@ -42,7 +42,7 @@ const translations = {
         'teaser_h2': 'Em breve',
         'teaser_p': 'Mapa interativo com picos de rua, pistas e sessões acontecendo em tempo real.',
         'teaser_map': 'MAPA',
-        'footer_made_by': 'Feito por quem vive o skate',
+        'footer_made_by': 'Produzido por quem vive e registra o skate underground.',
         'footer_terms': 'Termos de uso',
         'footer_privacy': 'Política de privacidade'
     },
@@ -88,7 +88,7 @@ const translations = {
         'teaser_h2': 'Coming soon',
         'teaser_p': 'Interactive map with street spots, parks, and sessions happening in real-time.',
         'teaser_map': 'MAP',
-        'footer_made_by': 'Made by those who live skate',
+        'footer_made_by': 'Produced by those who live and record underground skate',
         'footer_terms': 'Terms of use',
         'footer_privacy': 'Privacy policy'
     }
